@@ -1,4 +1,4 @@
-Hello 👋🏻
+## Hello 👋🏻
 
 My name is Lia Shiroma, I'm from Brazil and I work as a Front-end developer since 2020 🙋
 
